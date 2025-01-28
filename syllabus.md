@@ -31,7 +31,7 @@ change)
 
 TA: Maxiumum Decorso  
 Email: maximumdecorso@lclark.edu  
-Office hours: TBA
+Office hours: Mondays & Fridays 4 - 5 PM
 
 ## Course Description
 
