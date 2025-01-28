@@ -29,7 +29,7 @@ Email: alaink@lclark.edu
 Office hours: Tuesdays & Wednesdays 2 - 3 PM, BoDine 302A (subject to
 change)
 
-TA: Maxiumum Decorso  
+TA: Maximum Decorso  
 Email: maximumdecorso@lclark.edu  
 Office hours: Mondays & Fridays 4 - 5 PM
 
