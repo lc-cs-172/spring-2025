@@ -26,8 +26,7 @@ Jorge, the lab administrator).
 
 Professor: Alain Kägi  
 Email: alaink@lclark.edu  
-Office hours: Tuesdays & Wednesdays 2 - 3 PM, BoDine 302A (subject to
-change)
+Office hours: Tuesdays 1:30 - 2:30 PM & Wednesdays 2 - 3 PM, BoDine 302A
 
 TA: Maximum Decorso  
 Email: maximumdecorso@lclark.edu  
