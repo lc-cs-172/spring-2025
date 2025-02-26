@@ -28,7 +28,7 @@ the left margin.
 ![Visual Studio Code's Source Control icon](Source-Control-icon.png)
 
 The number displayed with the icon will vary with the number of changes that
-have been made in your copy of the repository.  In my case, there were 17 such
+have been made in your copy of the repository.  In my case, there were four such
 changes.
 
 The second area that I will call "current branch," shown below, is typically
