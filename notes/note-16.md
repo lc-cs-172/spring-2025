@@ -25,3 +25,8 @@ l[0] = 5
 t[0] = 5
 s[0] = 5
 ```
+
+## Mutability, indexability
+
+In Python, lists are mutable, while tuples and sets are not.  Likewise, lists
+and tuples are indexable, while sets are not.
