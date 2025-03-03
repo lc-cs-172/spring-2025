@@ -1,4 +1,4 @@
-# CS2 Fall 2024 Note 17
+# CS2 Spring 2025 Note 17
 
 ## Puzzle
 
