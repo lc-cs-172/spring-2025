@@ -30,3 +30,17 @@ s[0] = 5
 
 In Python, lists are mutable, while tuples and sets are not.  Likewise, lists
 and tuples are indexable, while sets are not.
+
+**Update**: I made a mistake.  Sets are mutable!
+
+In summary:
+
+Built-in type | Mutable | Indexable
+-|-|-
+`int` | no | no
+`bool` | no | no
+`float` | no | no
+string | no | yes
+list | yes | yes
+tuple | no | yes
+set | yes | no
