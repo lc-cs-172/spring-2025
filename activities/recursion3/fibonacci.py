@@ -1,0 +1,7 @@
+def fib(n : int) -> int:
+    """Return the nth member of the Fibonacci sequence."""
+    if n == 0: return 0
+    if n == 1: return 1
+    return fib(n - 1) + fib(n - 2)
+
+print(fib(55))
