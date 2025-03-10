@@ -46,7 +46,7 @@ The exit was found!  Here is one possible path to the exit:
 
 The character `#` marks a wall, spaces for hallways, `I` marks the entrance, `O`
 marks an exit.  You move through the maze only through the four cardinal
-direction (north, south, east, west); no diagonal moves.
+directions (north, south, east, west); no diagonal moves.
 
 The program should work on any plain text file, with changing the filename being
 the only modification needed to the code.  You can test it on these two files:
