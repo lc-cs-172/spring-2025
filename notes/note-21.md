@@ -2,6 +2,8 @@
 
 ## Puzzle
 
+What does `func` do?
+
 def func(s):
     if s == "":
         return [""]
