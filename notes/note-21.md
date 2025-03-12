@@ -4,6 +4,7 @@
 
 What does `func` do?
 
+```python
 def func(s):
     if s == "":
         return [""]
@@ -13,6 +14,7 @@ def func(s):
             for y in range(len(x) + 1):
                 ans.append(x[:y] + s[0] + x[y:])
         return ans
+```
 
 ## Factorial
 
