@@ -20,7 +20,7 @@ class Complex:
         self.imag = imag
 
     def __repr__(self):
-        return '({:.0f}{:+.0f}i)'.format(self.real, self.imag)
+        return '({:.3f}{:+.3f}i)'.format(self.real, self.imag)
 
     def __str__(self):
         return self.__repr__()
