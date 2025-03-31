@@ -14,5 +14,5 @@ previous assignment.
 
 ## What To Hand In
 
-Upload the refactored `body.py` (it's a text file, no need to convert it to
-such).
+Upload the refactored `body.py` and the `vector.py` you are using for this
+assignment (they're text files, no need to convert it to such).
