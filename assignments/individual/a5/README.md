@@ -9,8 +9,11 @@ came with a class simulating objects subject to a two-dimensional gravitational
 field (`body.py`).  That simulation code uses tuples to store locations,
 velocity, and forces.  In this assignment you are asked to refactor `body.py`
 and use your `Vector` class instead of the tuples.  Make all the appropriate
-changes.  Test your code with the two examples use of `body.py` packaged with the
-previous assignment.
+changes.  Test your code with the two refactored examples use of `body.py`
+provided with this assignment.
+
+* `sun_earth.py`  A refactored example use of refactored `body.py`
+* `three_body.py`  A second refactored example use of refactored `body.py`
 
 ## What To Hand In
 
