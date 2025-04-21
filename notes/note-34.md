@@ -1,4 +1,4 @@
-# CS2 Fall 2025 Note 34
+# CS2 Spring 2025 Note 34
 
 ## Puzzle
 

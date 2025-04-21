@@ -1,4 +1,4 @@
-# CS2 Fall 2025 Note 32
+# CS2 Spring 2025 Note 32
 
 ## Graph
 
