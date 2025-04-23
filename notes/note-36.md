@@ -13,12 +13,12 @@ def linear_search(key, array):
 ```
 
 ```python
-def f(angle):
+def f(theta):
     return math.cos(theta)**2 - math.sin(theta)**2
 ```
 
 ```python
-def all_pairs():
+def all_pairs(n):
     for i in range(n):
         for j in range(n):
             print(str(i) + ', ' + str(j))
